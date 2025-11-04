@@ -1,5 +1,7 @@
 # Ex.No:1  
 # Ex.Name: Subtract two polynomials using Linked List  
+## Date:11/09/25
+
 ## Aim:  
 To write a C++ function `void subPolynomials(Node *head1, Node *head2)` to subtract and display the difference of two polynomial expressions using the Linked List concept.  
 
