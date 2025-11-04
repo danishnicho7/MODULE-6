@@ -1,5 +1,7 @@
 # Ex.No:2  
 # Ex.Name: Circularly Singly Linked List - Delete an element from the FRONT  
+## Date:11/09/25
+
 ## Aim:  
 Write a CPP program to DELETE an element from the FRONT in a Circularly Singly Linked List and Display the same.
 
