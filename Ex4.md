@@ -1,5 +1,6 @@
 # Ex.No:4  
 # Ex.Name: Remove a Node from a Doubly Linked List using STL  
+## Date:11/09/25
 
 ## Aim:  
 To write a C++ program to remove a node from a doubly linked list using STL and display the list before and after removal.  
